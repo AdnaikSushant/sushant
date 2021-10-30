@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sush0905
-- 👀 I’m interested in machine learning and python..
+- 👀 I’m interested in machine learning, python and data science..
 - 🌱 I’m currently learning computer science..
 - 📫 How to reach me:-sushantadnaik2526@gmail.com
 
