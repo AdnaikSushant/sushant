@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sush0905
 - 👀 I’m interested in machine learning, python and data science..
-- 🌱 I’m currently learning computer science..
+- 🌱 I’m currently learning Master of Computer Application..
 - 📫 How to reach me:-sushantadnaik2526@gmail.com
 
 <!---
